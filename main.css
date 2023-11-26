@@ -1,0 +1,167 @@
+
+body{
+    color:blue;
+    background-color: #EFF;
+    font-size: 18px;
+    
+}
+
+.edit1{
+    color:red;
+    background-color: rgb(242, 255, 0);
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    padding: 8px;
+    margin: 10px;
+    display: block;
+    outline: 3px dashed blue;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1em 2em;
+    margin: 25px 25px 30px 10px;
+    max-height: 900px;
+    min-width: 900px;
+    max-width: 800px;
+    overflow: auto;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-weight: 600;
+    display: inline-block;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    top: 30px;
+    line-height: 1.5;
+    padding: 0 5px;
+    margin: 0 10px; 
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    bottom: 100px;
+    left: 100px;
+    box-shadow: 10px 15px 0 0 black;
+    box-shadow: 0 0 10px ;
+    box-shadow: 5px 10px 10px 0;
+    box-shadow: 3px 6px 8px 4px red;
+    
+
+
+
+    
+}
+
+.edit2{
+    color:red;
+    background-color: rgb(242, 255, 0);
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    padding: 8px;
+    margin: 10px;
+    display: block;
+    outline: 3px dashed blue;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1em 2em;
+    margin: 25px 25px 30px 10px;
+    max-height: 900px;
+    min-width: 900px;
+    max-width: 800px;
+    overflow: auto;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-weight: 600;
+    display: inline-block;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    
+
+    
+
+}
+
+.edit3{
+    color:red;
+    background-color: rgb(242, 255, 0);
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    padding: 8px;
+    margin: 10px;
+    display: block;
+    outline: 3px dashed blue;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.edit4{
+    color:red;
+    background-color: rgb(242, 255, 0);
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    padding: 8px;
+    margin: 10px;
+    display: block;
+    outline: 3px dashed blue;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.edit5{
+    color:red;
+    background-color: rgb(242, 255, 0);
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    padding: 8px;
+    margin: 10px;
+    display: block;
+    outline: 3px dashed blue;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.edit6{
+    color:red;
+    background-color: rgb(242, 255, 0);
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    padding: 8px;
+    margin: 10px;
+    display: block;
+    outline: 3px dashed blue;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.edit7{
+    color:red;
+    background-color: rgb(242, 255, 0);
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid #444;
+    padding: 8px;
+    margin: 10px;
+    display: block;
+    outline: 3px dashed blue;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.edit1 + label::before {
+    background-color: #C60;
+}
